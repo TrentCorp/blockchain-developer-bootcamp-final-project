@@ -1,17 +1,11 @@
 # blockchain-developer-bootcamp-final-project
 Consensys '21 Bootcamp Final Project
 
-A hospital care ledger for a patient undergoing surgery.
-Due to the highly charged legal nature of the space as well as government data retention requirements a private blockchain solution may be suitable.
+Time and work commitments leave me with a need to economise this project with a view to completing with limited availability.
+The new project will involve the creation of a token type and assignment/trading/transfer/sale of these tokens.
 
-For this small project a patient at various points through their care journey reads and either rejects or confirms their procedure prior to undertaking it.
+*Token selection
 
-1. A procedure is prescribed by a physician and acknowledged by the patient
-2. The procedure is scheduled by the hospital, complete with location, staffing & time
-3. The patient accepts or rejects the terms and directions
-4. The patient is admitted to pre-op and confirms their procedure, acknowledges legal concerns, etc.
-5. Staff enters data pertaining to pre-op observations
-6. The surgeon signs off that work has or has not been done
+*mapping for ownership and number of tokens owned by addresses
 
-
-Essentially the blockchain should serve as a simplified consistent legal document of ackowledgement & consent.
+*Clean and secure transfer maths using SafeMath
