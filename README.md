@@ -5,5 +5,9 @@ Time and work commitments leave me with a need to economise this project with a 
 The new project will involve the creation of a token type and assignment/trading/transfer/sale of these tokens.
 
 *Token selection
+
 *mapping for ownership and number of tokens owned by addresses
+
 *Clean and secure transfer maths using SafeMath
+
+*Multiple ownership with multiple sign off for transfer?
